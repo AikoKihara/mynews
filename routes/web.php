@@ -23,7 +23,7 @@ Route::get('XXX',
 'AAAController@bbb');
 
 Route::get('admin/profile/create',
-'ProfileController@add');
+'Admin\ProfileController@add');
 
 Route::get('admin/profile/edit',
-'ProfileController@edit');
+'Admin\ProfileController@edit');
