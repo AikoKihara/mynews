@@ -9,6 +9,8 @@ content="IE=edge">
         <title>MyNews</title>
     </head>
     <body>
-        <h1>プロフィール</h1>
+        <h1>Myプロフィール</h1>
     </body>
 </html>
+
+@extends('layouts.profile')
